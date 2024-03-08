@@ -24,4 +24,4 @@
 
 ## Protobuf
 - Google's representation to serialize structured data that is language neutral.
-- Protobuf (.proto file) is a contract shared between the GRPC server and the GRPC stub for code generation in the respective programming language.
+- Protobuf (.proto file) is a contract shared between the [GRPC server](grpc.server/grpc.server/Protos/person.proto) and the [GRPC stub](grpc.client/grpc.client/Protos/person.proto) for code generation in the respective programming language.
